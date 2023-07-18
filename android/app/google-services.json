@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246396155973",
+    "project_id": "phonepe-property-notification",
+    "storage_bucket": "phonepe-property-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246396155973:android:b13ed1985c546b5dfc8b2c",
+        "android_client_info": {
+          "package_name": "com.softieons.classified.phonepeproperty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246396155973-h42kfmmug3mor9osierc35pae2d7b936.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softieons.classified.phonepeproperty",
+            "certificate_hash": "bd9bad6a37372af38ff61981c457ffe832e38e9e"
+          }
+        },
+        {
+          "client_id": "246396155973-e6724i0h46dv4k7ldtkec15blkkfjrpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dI7IyA3uihJ0ti8JbwNa_5_MjmWQD1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246396155973-e6724i0h46dv4k7ldtkec15blkkfjrpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
